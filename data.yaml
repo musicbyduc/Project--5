@@ -1,0 +1,13 @@
+path: E:\Xu ly anh\yolov8\dataset
+train: E:\Xu ly anh\yolov8\dataset\images\train
+val: E:\Xu ly anh\yolov8\dataset\images\valid
+test: E:\Xu ly anh\yolov8\dataset\images\test
+nc: 16
+names: ['audi-logo', 'bmw-logo', 'chevrolet-logo', 'ford-logo', 'honda-logo', 'hyundai-logo', 'kia-logo', 'lexus-logo', 'mazda-logo', 'mercedes-logo', 'misubishi-logo', 'morris-garrages-logo', 'nissan-logo', 'peugeot-logo', 'toyota-logo', 'vinfast-logo']
+
+#roboflow:
+#  workspace: duc-hong-hoang
+#  project: car-logo-detection-2-by-duc
+#  version: 2
+#  license: CC BY 4.0
+#  url: https://universe.roboflow.com/duc-hong-hoang/car-logo-detection-2-by-duc/dataset/2
